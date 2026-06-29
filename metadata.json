@@ -1,0 +1,6 @@
+{
+  "name": "Smart Home AI Agent",
+  "description": "An intelligent smart home controller powered by Gemini AI. Control virtual devices, create complex automations, and analyze energy or safety logs using natural language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
